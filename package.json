@@ -1,0 +1,26 @@
+{
+  "name": "gmc-mongoose-persons-checkpoint",
+  "version": "1.0.0",
+  "description": "MongoDB and Mongoose checkpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatiaGhezali/GMC-mongoose-persons-checkpoint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KatiaGhezali/GMC-mongoose-persons-checkpoint/issues"
+  },
+  "homepage": "https://github.com/KatiaGhezali/GMC-mongoose-persons-checkpoint#readme",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "mongoose": "^9.12.0"
+  }
+}
